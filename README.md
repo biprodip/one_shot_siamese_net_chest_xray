@@ -6,3 +6,11 @@ Deep learning Models trained using supervised methods need to be retrained when 
 This workk creates to manually created CNN model that are combined to form a Siamese Net(https://en.wikipedia.org/wiki/Siamese_neural_network) to classify images.
 No fine tuning is performed. It implements the basic version using a eucledian distance measure. 
 
+![similarity](/images/similarity.png)
+Figure: Similarity among images
+
+
+## Dependencies
+* IPython Notebook
+* Keras (Tensorflow Backend)
+
